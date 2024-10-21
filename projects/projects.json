@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Barwa Accessory Avenue",
+    "desc": "Designed a user-friendly and visually appealing online marketplace dedicated to offering customers a wide range of high-quality Mobile accessories worldwide.",
+    "image": "Ecommerce",
+    "category": "mern",
+    "links": {
+      "view": "https://barwa2-udaygavada.vercel.app/",
+      "code": "https://github.com/UdayGavada/Barwa_Accessory_Avenue.git"
+    }
+  },
+  {
+    "name": "Resume Builder",
+    "desc": "ReactJS Basic Resume Builder which will generate customized resume in few minutes on your requirements.",
+    "image": "resumebuilder",
+    "category": "mern",
+    "links": {
+      "view": "https://resume-builder-one-ashy.vercel.app/",
+      "code": "https://github.com/UdayGavada/Resume-Builder.git"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "https://udaygavada-javascript-projects.netlify.app/",
+      "code": "https://github.com/UdayGavada/Javascript-Project.git"
+    }
+  },
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/UdayGavada/Javascript-Project"
+    }
+  }
+]
