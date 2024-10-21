@@ -3,6 +3,14 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 <a href="https://udaygavada-portfolio.netlify.app" target="_blank">**Visit Now** 🚀</a>
 
+![image](https://github.com/user-attachments/assets/19e89b15-ba91-4fd4-aea0-7ec49a215fdd)
+
+![image](https://github.com/user-attachments/assets/84cf5d3e-9aa3-49ec-9e02-bcfc0406059b)
+
+![image](https://github.com/user-attachments/assets/44ecff3c-1ba5-4675-af2c-a5d6ede44501)
+
+
+
 
 <h2>📬 Contact</h2>
 
